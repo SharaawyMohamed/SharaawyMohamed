@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharawy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img aling="right" src="https://monovm.com/uploads/tinymce/antoniy/choose%20the%20right%20backend/backend-for-article-2.jpg" alt="Coding" width="400" height="300">
+
 - 🌱 I’m currently learning **.NET**
 
 - 🔭 I’m complete project [Examination System](https://github.com/SharaawyMohamed/Examination-System)
