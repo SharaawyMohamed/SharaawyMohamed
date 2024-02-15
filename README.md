@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharawy</h1>
-<h3 align="center">I'm NET Developer</h3>
+<h3 align="center">I'm .NET Developer</h3>
 <img align="center" src="https://monovm.com/uploads/tinymce/antoniy/choose%20the%20right%20backend/backend-for-article-2.jpg" alt="Coding" width="800" height="300">
 
 - 🌱 I’m currently learning **.NET**
