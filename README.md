@@ -1,75 +1,52 @@
-# 👋 Hello, I'm Sharawy Mohamed
+# Hi 👋, I'm Sharawy Mohamed
 
-🔹 **Software Engineer | .NET Backend Developer**  
-🔹 **Cairo, Egypt**  
-🔹 [Email Me](mailto:sharawymohamed.a@gmail.com) | [+20 112 448 7053](tel:+201124487053)  
+### .NET Backend Developer | Software Engineer | Computer Science Student
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharawymohamed-blue)](https://www.linkedin.com/in/sharawymohamed/) 
-[![GitHub](https://img.shields.io/badge/GitHub-SharaawyMohamed-lightgrey)](https://github.com/SharaawyMohamed)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-sharawym275-orange)](https://leetcode.com/u/sharawym275/) 
-[![Codeforces](https://img.shields.io/badge/Codeforces-Sh3raawy-blueviolet)](https://codeforces.com/profile/Sh3raawy)
+I'm a passionate software engineer specializing in backend development with a deep commitment to building efficient and scalable systems using .NET technologies. Constantly engaged in problem-solving and competitive programming, I am keen on leveraging my skills to create impactful solutions and stay up-to-date with the latest technologies in software development.
 
 ---
 
-## 🎓 Education
+## 🔧 Technologies & Tools
 
-**Bachelor of Computer Science**  
-*Sohag University* | 2021 – 2025  
-GPA: 3.22
-
----
-
-## 💼 Experience
-
-**Back-end Developer Intern**  
-*Route IT Training Center* | Nov 2023 – May 2024  
-- Built and deployed an **E-Commerce API** and an **Employee Management System MVC**, leveraging advanced C#, EF Core, API development, and more.
+- **Languages:** C#, C++, SQL, Typescript
+- **Frameworks:** ASP.NET Core, Angular
+- **Design Patterns:** Repository Pattern, Unit of Work, Singleton, Decrator, Dependancy Injection, CQRS
+- **Frontend:** Bootstrap, HTML, CSS
+- **Databases:** SQL Server, MySQL
+- **Version Control:** Git, GitHub
 
 ---
 
-## 🔧 Skills
+## 🌟 Professional Highlights
 
-- **Languages & Frameworks:** C#, .NET Core, MVC, LINQ
-- **Tools:** SQL, Entity Framework Core, Git & GitHub, SignalR, Redis, Stripe API
-- **Additional:** OOP, API development, Design Patterns, Unit Testing
-
----
-
-## 📂 Featured Projects
-
-### [Airbnb Clone API](https://github.com/SharaawyMohamed/Airbnb-Project)
-- User authentication, property listings, booking management, and payment integration.
-- **Tech:** C#, Entity Framework Core, SignalR, CQRS, JWT
-
-### [DeviceHub MVC](https://github.com/SharaawyMohamed/DeviceHub-MVC)
-- Admin dashboard with user/role management, product CRUD, and payment integration.
-- **Tech:** ASP.NET Core, Clean Architecture, Repository Pattern, SQL Server, Stripe API
-
-### [Talabat API](https://github.com/SharaawyMohamed/E-Commerce)
-- Sales operations with task scheduling, authentication, and payment integration.
-- **Tech:** C#, Onion Architecture, Redis caching
+- **Backend Engineering:** Developed robust backend systems with ASP.NET Core , utilizing Clean Architecture to build scalable and maintainable applications.
+- **Design Patterns:** Skilled in applying patterns like Repository and Unit of Work to create modular and reusable code.
+- **Competitive Programming:** Active on platforms like Codeforces and LeetCode.
+- **Project Experience:** Completed various projects, including an **E-Commerce API** an **Employee Management System MVC** an **Airbnb API** and **DeviceHub MVC**, showcasing skills in database design, authentication, and RESTful API development.
 
 ---
 
-## 🤝 Volunteering
+## 🎯 Current Focus Areas
 
-**Unit Testing Developer**  
-*ICPC Sohag University Community*  
-- Developed unit tests for core features, collaborating to enhance stability and ensure quality user experience.
-
----
-
-## 🏆 Awards & Certifications
-
-- **ECPC Qualification** - Collegiate Programming Contest (2022)
-- **Back-end (.Net Core) Diploma** - Route IT Training Center
+- **Advanced Algorithms:** Continually improving my problem-solving skills and understanding of data structures.
+- **ASP.NET Core API Development:** Building cloud-native applications with RESTful APIs and optimized backends.
+- **Angular:** Expanding my knowledge in Angular enhance system scalability.
 
 ---
 
-## 🌐 Let's Connect!
+## 🚀 Goals
 
-I'm always open to new opportunities and collaborations. Feel free to reach out or explore my [LinkedIn](https://www.linkedin.com/in/sharawymohamed/) and [GitHub](https://github.com/SharaawyMohamed) profiles!
+- **Career Growth:** Seeking opportunities in tech to apply my skills in challenging and impactful projects.
+- **Skill Enhancement:** Aiming to master advanced backend development practices, focusing on architecture, and system design.
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sharawymohamed-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sharawymohamed/)
+[![GitHub](https://img.shields.io/badge/GitHub-SharaawyMohamed-lightgrey?style=flat-square&logo=github)](https://github.com/SharaawyMohamed)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sharawym275-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/sharawym275/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Sh3raawy-blueviolet?style=flat-square&logo=codeforces)](https://codeforces.com/profile/Sh3raawy)
 
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for stopping by! 🚀
