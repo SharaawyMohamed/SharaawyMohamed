@@ -11,7 +11,6 @@ I'm a passionate software engineer specializing in backend development with a de
 - **Languages:** C#, C++, SQL, Typescript
 - **Frameworks:** ASP.NET Core, Angular
 - **Design Patterns:** Repository Pattern, Unit of Work, Singleton, Decrator, Dependancy Injection, CQRS
-- **Frontend:** Bootstrap, HTML, CSS
 - **Databases:** SQL Server
 - **Version Control:** Git, GitHub
 
