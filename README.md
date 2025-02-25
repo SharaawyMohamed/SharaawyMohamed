@@ -13,6 +13,7 @@ I'm a passionate software engineer specializing in backend development with a de
 - **Design Patterns:** Repository Pattern, Unit of Work, Singleton, Decrator, Dependancy Injection, CQRS
 - **Databases:** SQL Server
 - **Version Control:** Git, GitHub
+- **Tools:** Docker, Redis, Agile
 
 ---
 
