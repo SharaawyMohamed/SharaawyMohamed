@@ -2,42 +2,75 @@
 
 ### .NET Backend Developer | Software Engineer | Computer Science Student
 
-I'm a passionate software engineer specializing in backend development with a deep commitment to building efficient and scalable systems using .NET technologies. Constantly engaged in problem-solving and competitive programming, I am keen on leveraging my skills to create impactful solutions and stay up-to-date with the latest technologies in software development.
+I'm a passionate software engineer specializing in backend development with a strong focus on building efficient, scalable, and maintainable systems using .NET technologies. I enjoy solving real-world problems through clean architecture, optimized APIs, and practical engineering solutions.
 
 ---
 
-## 🔧 Technologies & Tools
+## 🛠️ Skills
 
-- **Languages:** C#, C++, SQL
-- **Frameworks:** ASP.NET Core
-- **Design Patterns:** Repository Pattern, Unit of Work, Singleton, Decrator, Dependancy Injection, CQRS
-- **Databases:** SQL Server
-- **Version Control:** Git, GitHub
-- **Tools:** Docker, Redis, Agile
+### Backend Development
+- C# / .NET
+- ASP.NET Core Web API
+- ASP.NET MVC
+- RESTful API design
+- Middleware, dependency injection, authentication, and authorization
+
+### Architecture & Design Patterns
+- Clean Architecture
+- Repository Pattern
+- Unit of Work
+- Dependency Injection
+- Singleton Pattern
+- Decorator Pattern
+- CQRS
+- SOLID Principles
+
+### Databases & Data Access
+- SQL Server
+- Entity Framework Core
+- Database design and optimization
+- Redis caching
+- Working with relational data models
+
+### Tools & Practices
+- Git & GitHub
+- Docker
+- Swagger / OpenAPI
+- Postman
+- Agile development
+- Problem-solving and debugging
+
+### Problem Solving
+- Data Structures & Algorithms
+- Competitive programming on Codeforces and LeetCode
+- Analytical thinking and system design mindset
 
 ---
 
 ## 🌟 Professional Highlights
 
-- **Backend Engineering:** Developed robust backend systems with ASP.NET Core , utilizing Clean Architecture to build scalable and maintainable applications.
-- **Design Patterns:** Skilled in applying patterns like Repository and Unit of Work to create modular and reusable code.
-- **Competitive Programming:** Active on platforms like Codeforces and LeetCode.
-- **Project Experience:** Completed various projects, including an **E-Commerce API** an **Employee Management System MVC** an **Airbnb API** and **DeviceHub MVC**, showcasing skills in database design, authentication, and RESTful API development.
+- Built backend systems with ASP.NET Core, focusing on scalability, maintainability, and performance.
+- Applied design patterns to create modular and reusable solutions.
+- Worked on real-world projects involving APIs, business logic, database integration, and clean architecture.
+- Continuously improving my technical skills through hands-on projects and algorithm practice.
 
 ---
 
 ## 🎯 Current Focus Areas
 
-- **Advanced Algorithms:** Continually improving my problem-solving skills and understanding of data structures.
-- **ASP.NET Core API Development:** Building cloud-native applications with RESTful APIs and optimized backends.
-- **Angular:** Expanding my knowledge in Angular enhance system scalability.
+- Advanced backend development with ASP.NET Core
+- Clean Architecture and scalable system design
+- API optimization and performance improvement
+- Expanding knowledge in modern software engineering practices
 
 ---
 
 ## 🚀 Goals
 
-- **Career Growth:** Seeking opportunities in tech to apply my skills in challenging and impactful projects.
-- **Skill Enhancement:** Aiming to master advanced backend development practices, focusing on architecture, and system design.
+- Grow as a backend engineer by building impactful software solutions.
+- Continue improving my architecture and system design skills.
+- Contribute to challenging, real-world engineering projects.
+
 ---
 
 ## 📫 Let's Connect!
